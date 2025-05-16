@@ -12,5 +12,9 @@ If you are using MacOS you need 'OpenMP' installed
 
     brew install libomp
 
+Then run 
+
+    pip install -r requirements. txt
+
 
 
